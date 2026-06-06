@@ -1,9 +1,8 @@
 # アイプリ朝ニュース
 
-Podcast RSS:
+GitHub PagesでPodcast配信用に公開する静的ファイルです。
 
-https://IzminGit.github.io/aipri-morning-news/podcast.xml
+- RSS: podcast.xml
+- MP3: episodes/
 
-Episode files are stored under `episodes/`.
-
-Transcript files are stored under `transcripts/`.
+公開URLを確定したら、n8nの Prepare GitHub Pages Podcast Files ノード内の publicBaseUrl を実際のGitHub Pages URLに変更してください。
