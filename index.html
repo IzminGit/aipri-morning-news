@@ -4,15 +4,48 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>アイプリ朝ニュース</title>
+  <style>
+    body { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; line-height: 1.7; margin: 24px; max-width: 760px; }
+    img { max-width: 320px; width: 100%; height: auto; }
+    audio { width: 100%; margin: 16px 0; }
+    #transcript { border-top: 1px solid #ddd; margin-top: 20px; padding-top: 12px; }
+    .cue { padding: 8px 10px; border-radius: 6px; margin: 4px 0; }
+    .cue.active { background: #fff2a8; font-weight: 700; }
+  </style>
 </head>
 <body>
   <h1>アイプリ朝ニュース</h1>
   <p>プリティーシリーズ関連の公式情報を朝にまとめてお届けします。</p>
   <p><a href="podcast.xml">Podcast RSS</a></p>
   <p><img src="artwork.png" alt="アイプリ朝ニュース" width="320"></p>
-  <audio controls src="episodes/2026-06-06-aipri-morning-news-2026-06-06-081754.mp3"></audio>
-  <ol>
-    <li><a href="episodes/2026-06-06-aipri-morning-news-2026-06-06-081754.mp3">アイプリ朝ニュース 2026-06-06</a></li>
-  </ol>
+  <audio id="player" controls src="episodes/2026-06-06-aipri-morning-news-2026-06-06-081754.mp3"></audio>
+  <section id="transcript" aria-label="文字起こし"></section>
+  <script>
+    const player = document.getElementById('player');
+    const transcript = document.getElementById('transcript');
+    fetch('transcripts/2026-06-06-aipri-morning-news-2026-06-06-081754.json')
+      .then((response) => response.json())
+      .then((cues) => {
+        for (const cue of cues) {
+          const div = document.createElement('div');
+          div.className = 'cue';
+          div.dataset.start = cue.start;
+          div.dataset.end = cue.end;
+          div.textContent = cue.text;
+          transcript.appendChild(div);
+        }
+        const cueElements = [...document.querySelectorAll('.cue')];
+        player.addEventListener('timeupdate', () => {
+          const current = player.currentTime;
+          let active = null;
+          for (const el of cueElements) {
+            const isActive = current >= Number(el.dataset.start) && current < Number(el.dataset.end);
+            el.classList.toggle('active', isActive);
+            if (isActive) active = el;
+          }
+          if (active) active.scrollIntoView({ block: 'center', behavior: 'smooth' });
+        });
+      });
+  </script>
 </body>
 </html>
