@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>アイプリ朝ニュース</title>
@@ -11,7 +11,7 @@
       <link>https://IzminGit.github.io/aipri-morning-news/</link>
     </image>
     <itunes:image href="https://IzminGit.github.io/aipri-morning-news/artwork.png" />
-    <lastBuildDate>Fri, 05 Jun 2026 23:48:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 20:01:15 GMT</lastBuildDate>
     <itunes:author>いずみん</itunes:author>
     <itunes:summary>プリティーシリーズ関連の公式情報を朝にまとめてお届けします。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -20,14 +20,12 @@
       <itunes:email>example@example.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>アイプリ朝ニュース 2026-06-06</title>
-      <description>おはようございます。今日もプリティーシリーズの最新ニュースをお伝えします。6月6日土曜日の情報を中心に、注目のイベントや新商品、キャンペーン情報をわかりやすくお届けします。 まずはオネガイアイプリからのニュースです。明日6月6日から、ゲーム機オネガイアイプリのあるお店で、サンリオキャラクターズとのコラボキャンペーンがスタートします。今回のプレゼントはおりびあ おねがいパティシエール ポムポムプリンのスペシャルオアイプリカードです。小学生...</description>
-      <pubDate>Fri, 05 Jun 2026 23:48:18 GMT</pubDate>
-      <guid isPermaLink="true">https://IzminGit.github.io/aipri-morning-news/episodes/2026-06-06-aipri-morning-news-2026-06-06-081754.mp3</guid>
-      <itunes:image href="https://IzminGit.github.io/aipri-morning-news/artwork.png" />
-      <podcast:transcript url="https://IzminGit.github.io/aipri-morning-news/transcripts/2026-06-06-aipri-morning-news-2026-06-06-081754.vtt" type="text/vtt" language="ja" rel="captions" />
-      <enclosure url="https://IzminGit.github.io/aipri-morning-news/episodes/2026-06-06-aipri-morning-news-2026-06-06-081754.mp3" length="3320109" type="audio/mpeg" />
+      <title>アイプリ朝ニュース 2026-06-07</title>
+      <description>おはようございます。今日もおねがいアイプリ、ひみつのアイプリ、そしてアイプリバースの最新情報をお届けします。 まずはおねがいアイプリからのニュースです。6月6日土曜日より、ゲーム機設置店舗でサンリオキャラクターズとのコラボレーションによる2か月連続プレゼントキャンペーンがスタートしました。今回のキャンペーンでは、人気キャラクターおりびあとおねがいパティシエール、そしてポムポムプリンのスペシャルアイプリカードが配布されましたが、ご好評につ...</description>
+      <pubDate>Sat, 06 Jun 2026 20:01:15 GMT</pubDate>
+      <guid isPermaLink="true">https://IzminGit.github.io/aipri-morning-news/episodes/2026-06-07-aipri-morning-news-2026-06-07-050043.mp3</guid>
+      <podcast:transcript url="https://IzminGit.github.io/aipri-morning-news/transcripts/2026-06-07-aipri-morning-news-2026-06-07-050043.vtt" type="text/vtt" language="ja" rel="captions" />
+      <enclosure url="https://IzminGit.github.io/aipri-morning-news/episodes/2026-06-07-aipri-morning-news-2026-06-07-050043.mp3" length="2661165" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
-
