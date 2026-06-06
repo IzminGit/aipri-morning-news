@@ -5,6 +5,12 @@
     <link>https://IzminGit.github.io/aipri-morning-news/</link>
     <description>プリティーシリーズ関連の公式情報を朝にまとめてお届けします。</description>
     <language>ja</language>
+    <image>
+      <url>https://IzminGit.github.io/aipri-morning-news/artwork.png</url>
+      <title>アイプリ朝ニュース</title>
+      <link>https://IzminGit.github.io/aipri-morning-news/</link>
+    </image>
+    <itunes:image href="https://IzminGit.github.io/aipri-morning-news/artwork.png" />
     <lastBuildDate>Fri, 05 Jun 2026 23:48:18 GMT</lastBuildDate>
     <itunes:author>いずみん</itunes:author>
     <itunes:summary>プリティーシリーズ関連の公式情報を朝にまとめてお届けします。</itunes:summary>
@@ -18,6 +24,7 @@
       <description>おはようございます。今日もプリティーシリーズの最新ニュースをお伝えします。6月6日土曜日の情報を中心に、注目のイベントや新商品、キャンペーン情報をわかりやすくお届けします。 まずはオネガイアイプリからのニュースです。明日6月6日から、ゲーム機オネガイアイプリのあるお店で、サンリオキャラクターズとのコラボキャンペーンがスタートします。今回のプレゼントはおりびあ おねがいパティシエール ポムポムプリンのスペシャルオアイプリカードです。小学生...</description>
       <pubDate>Fri, 05 Jun 2026 23:48:18 GMT</pubDate>
       <guid isPermaLink="true">https://IzminGit.github.io/aipri-morning-news/episodes/2026-06-06-aipri-morning-news-2026-06-06-081754.mp3</guid>
+      <itunes:image href="https://IzminGit.github.io/aipri-morning-news/artwork.png" />
       <enclosure url="https://IzminGit.github.io/aipri-morning-news/episodes/2026-06-06-aipri-morning-news-2026-06-06-081754.mp3" length="3320109" type="audio/mpeg" />
     </item>
   </channel>
