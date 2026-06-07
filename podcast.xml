@@ -3,7 +3,7 @@
   <channel>
     <title>アイプリ朝ニュース</title>
     <link>https://IzminGit.github.io/aipri-morning-news/</link>
-    <description>プリティーシリーズ関連の公式情報を朝にまとめてお届けします。</description>
+    <description>おねがいアイプリ、ひみつのアイプリ、アイプリバース関連の公式情報を朝にまとめてお届けします。</description>
     <language>ja</language>
     <image>
       <url>https://IzminGit.github.io/aipri-morning-news/artwork.png</url>
@@ -11,14 +11,22 @@
       <link>https://IzminGit.github.io/aipri-morning-news/</link>
     </image>
     <itunes:image href="https://IzminGit.github.io/aipri-morning-news/artwork.png" />
-    <lastBuildDate>Sat, 06 Jun 2026 20:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 20:01:53 GMT</lastBuildDate>
     <itunes:author>いずみん</itunes:author>
-    <itunes:summary>プリティーシリーズ関連の公式情報を朝にまとめてお届けします。</itunes:summary>
+    <itunes:summary>おねがいアイプリ、ひみつのアイプリ、アイプリバース関連の公式情報を朝にまとめてお届けします。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner>
       <itunes:name>いずみん</itunes:name>
       <itunes:email>example@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>アイプリ朝ニュース 2026-06-08</title>
+      <description>おはようございます。6月8日、アイプリニュースをお届けします。今日もおねがいアイプリ、ひみつのアイプリ、そしてアイプリバースの最新情報をわかりやすくお伝えします。 まずは、アイプリバースからの新情報です。6月11日木曜日から、おねがいアイプリ2だんがスタートします。今回の注目は、新キャラクターおりびあの登場です。おりびあちゃんは、アニメ10話でも素敵なライブを披露しました。そのライブで着ていたコーデはゆうきのフラワーバズリウムで、6月1...</description>
+      <pubDate>Sun, 07 Jun 2026 20:01:53 GMT</pubDate>
+      <guid isPermaLink="true">https://IzminGit.github.io/aipri-morning-news/episodes/2026-06-08-aipri-morning-news-2026-06-08-050115.mp3</guid>
+      <podcast:transcript url="https://IzminGit.github.io/aipri-morning-news/transcripts/2026-06-08-aipri-morning-news-2026-06-08-050115.vtt" type="text/vtt" language="ja" rel="captions" />
+      <enclosure url="https://IzminGit.github.io/aipri-morning-news/episodes/2026-06-08-aipri-morning-news-2026-06-08-050115.mp3" length="2942637" type="audio/mpeg" />
+    </item>
     <item>
       <title>アイプリ朝ニュース 2026-06-07</title>
       <description>おはようございます。今日もおねがいアイプリ、ひみつのアイプリ、そしてアイプリバースの最新情報をお届けします。 まずはおねがいアイプリからのニュースです。6月6日土曜日より、ゲーム機設置店舗でサンリオキャラクターズとのコラボレーションによる2か月連続プレゼントキャンペーンがスタートしました。今回のキャンペーンでは、人気キャラクターおりびあとおねがいパティシエール、そしてポムポムプリンのスペシャルアイプリカードが配布されましたが、ご好評につ...</description>
