@@ -11,7 +11,7 @@
       <link>https://IzminGit.github.io/aipri-morning-news/</link>
     </image>
     <itunes:image href="https://IzminGit.github.io/aipri-morning-news/artwork.png" />
-    <lastBuildDate>Sun, 07 Jun 2026 20:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 20:01:12 GMT</lastBuildDate>
     <itunes:author>いずみん</itunes:author>
     <itunes:summary>おねがいアイプリ、ひみつのアイプリ、アイプリバース関連の公式情報を朝にまとめてお届けします。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -19,6 +19,14 @@
       <itunes:name>いずみん</itunes:name>
       <itunes:email>example@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>アイプリ朝ニュース 2026-06-09</title>
+      <description>おはようございます。アイプリニュースのお時間です。2026年6月9日、最新のアイプリ関連情報をお伝えします。 まずはアニメおねがいアイプリの最新情報から。6月14日、日曜日の朝9時30分より、第11話いのりのたからものが放送されます。今回のエピソードも、人気キャラクターのいのりを中心に展開し、ファンの皆さんにとって見逃せない内容となっています。公式から公開された予告映像も好評で、放送を楽しみにしている声が多く聞かれます。 続いてゲームお...</description>
+      <pubDate>Mon, 08 Jun 2026 20:01:12 GMT</pubDate>
+      <guid isPermaLink="true">https://IzminGit.github.io/aipri-morning-news/episodes/2026-06-09-aipri-morning-news-2026-06-09-050042.mp3</guid>
+      <podcast:transcript url="https://IzminGit.github.io/aipri-morning-news/transcripts/2026-06-09-aipri-morning-news-2026-06-09-050042.vtt" type="text/vtt" language="ja" rel="captions" />
+      <enclosure url="https://IzminGit.github.io/aipri-morning-news/episodes/2026-06-09-aipri-morning-news-2026-06-09-050042.mp3" length="2262573" type="audio/mpeg" />
+    </item>
     <item>
       <title>アイプリ朝ニュース 2026-06-08</title>
       <description>おはようございます。6月8日、アイプリニュースをお届けします。今日もおねがいアイプリ、ひみつのアイプリ、そしてアイプリバースの最新情報をわかりやすくお伝えします。 まずは、アイプリバースからの新情報です。6月11日木曜日から、おねがいアイプリ2だんがスタートします。今回の注目は、新キャラクターおりびあの登場です。おりびあちゃんは、アニメ10話でも素敵なライブを披露しました。そのライブで着ていたコーデはゆうきのフラワーバズリウムで、6月1...</description>
